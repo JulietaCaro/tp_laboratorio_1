@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1554402660 source:c:\users\administrador\documents\facultad\calculador5\funcionesmatematicas.c
+
+1554402934 source:c:\users\administrador\documents\facultad\calculador5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesmatematicas.h"
+
+1554402660 c:\users\administrador\documents\facultad\calculador5\funcionesmatematicas.h
+
